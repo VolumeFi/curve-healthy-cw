@@ -1,5 +1,5 @@
 [package]
-name = "curve-healthy-juice-bot-cw"
+name = "curve-healthy-bot-cw"
 version = "0.1.0"
 authors = ["wc117"]
 edition = "2021"

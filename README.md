@@ -1,4 +1,4 @@
-# Curve Leverage Lending Bot CosmWasm smart contract
+# Curve Healthy Bot CosmWasm smart contract
 
 This is a CosmWasm smart contract to manage Curve Leverage Lending Bot smart contract on EVM chain written in Vyper.
 

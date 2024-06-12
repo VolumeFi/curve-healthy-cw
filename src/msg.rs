@@ -14,7 +14,7 @@ pub struct BotInfo {
     pub bot: String,
     pub callbacker: String,
     pub callback_args: Vec<Uint256>,
-    pub swap_infos: Vec<SwapInfo>,
+    pub swap_info: SwapInfo,
 }
 
 #[cw_serde]

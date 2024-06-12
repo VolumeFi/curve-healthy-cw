@@ -236,7 +236,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "curve-healthy-juice-bot-cw"
+name = "curve-healthy-bot-cw"
 version = "0.1.0"
 dependencies = [
  "cosmwasm-schema",

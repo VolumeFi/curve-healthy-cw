@@ -16,8 +16,8 @@ jobs:
       - name: Install stable toolchain
         uses: actions-rs/toolchain@v1
         with:
-          profile: stable
-          toolchain: 1.75.0
+          profile: minimal
+          toolchain: stable
           target: wasm32-unknown-unknown
           override: true
 
@@ -47,8 +47,8 @@ jobs:
       - name: Install stable toolchain
         uses: actions-rs/toolchain@v1
         with:
-          profile: stable
-          toolchain: 1.75.0
+          profile: minimal
+          toolchain: stable
           override: true
           components: rustfmt, clippy
 
